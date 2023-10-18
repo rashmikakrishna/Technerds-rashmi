@@ -1,0 +1,12 @@
+
+.hello{
+    font-family: cursive;
+     font-variant: small-caps;
+}
+h2{
+    font-size: 20px;
+    font-weight: 200;
+}
+h3{
+    font-style:italic;
+}
